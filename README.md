@@ -68,3 +68,17 @@ the changes instantly.
 ## Summary
 
 Well done! You just practiced writing your own structured HTML document!
+open 'index.html'
+<doctype>
+index.HTML
+<html> 
+<head> <p>This is the header</p> 
+  </head>
+  <body> <p>The content will be here </p>
+    <p>here is another paragraph</p>
+  </body>
+  </html>
+  
+  
+
+
